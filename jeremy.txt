@@ -1,2 +1,2 @@
-nouveau fichier
-une modification
+cd = nouveau chemain
+cls = clear 
